@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.ezdeploy" plugin-version="1.0">
-  <configuration build-checksum="3522263361" file="C:\Users\xxxsl\Desktop\TEC\Universidad\Baja SAE\TelemetriaBajaSAE\Telemetria Matlab\TelemetryViewer.prj" location="C:\Users\xxxsl\Desktop\TEC\Universidad\Baja SAE\TelemetriaBajaSAE\Telemetria Matlab" name="TelemetryViewer" preferred-package-location="C:\Users\xxxsl\Desktop\TEC\Universidad\Baja SAE\TelemetriaBajaSAE\Telemetria Matlab\TelemetryViewer\for_redistribution" preferred-package-type="package.type.exe" target="target.ezdeploy.standalone" target-name="Application Compiler">
+  <configuration build-checksum="1494575280" file="C:\Users\xxxsl\Desktop\TEC\Universidad\Baja SAE\TelemetriaBajaSAE\Telemetria Matlab\TelemetryViewer.prj" location="C:\Users\xxxsl\Desktop\TEC\Universidad\Baja SAE\TelemetriaBajaSAE\Telemetria Matlab" name="TelemetryViewer" preferred-package-location="C:\Users\xxxsl\Desktop\TEC\Universidad\Baja SAE\TelemetriaBajaSAE\Telemetria Matlab\TelemetryViewer\for_redistribution" preferred-package-type="package.type.exe" target="target.ezdeploy.standalone" target-name="Application Compiler">
     <param.appname>TelemetryViewer</param.appname>
     <param.icon>${PROJECT_ROOT}\TelemetryViewer_resources\icon.ico</param.icon>
     <param.icons>
@@ -8,7 +8,7 @@
       <file>${PROJECT_ROOT}\TelemetryViewer_resources\icon_24.png</file>
       <file>${PROJECT_ROOT}\TelemetryViewer_resources\icon_16.png</file>
     </param.icons>
-    <param.version>1.0.1</param.version>
+    <param.version>1.1</param.version>
     <param.authnamewatermark>Alan C</param.authnamewatermark>
     <param.email>alanyaco.cf@gmail.com</param.email>
     <param.company>BajaSaeMty</param.company>
